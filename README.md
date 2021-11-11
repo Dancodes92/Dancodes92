@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dancodes92
-- 👀 I’m interested in building the future!
-- 🌱 I’m currently learning Java Script;
+- 👀 I’m interested in building the new apps and web-apps!
+- 🌱 I’m currently learning Java Script, typescript, express, sequelize, and react!
 - 💞️ I’m looking to collaborate on any cool project;
 - 📫 How to reach me danschneider92@gmail.com
 
